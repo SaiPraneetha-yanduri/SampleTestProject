@@ -5,6 +5,7 @@ public class TeastClass {
 		System.out.println("test class");
 		
 		System.out.println("test class modified by local");
+
 	}
 
 }
